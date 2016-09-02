@@ -1,0 +1,16 @@
+{
+  "name": "mdn-like-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Based on the CodeMirror theme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "light"
+  ],
+  "repository": "https://github.com/smlombardi/mdn-like",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
